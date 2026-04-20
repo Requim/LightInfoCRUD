@@ -1,0 +1,2 @@
+database:
+  url: "postgresql://postgres:password@localhost:1234/light_db"
