@@ -1,5 +1,5 @@
 from sqlalchemy import Column, Integer, String
-from session import Base
+from db.session import Base
 
 
 class LightFixture(Base):
